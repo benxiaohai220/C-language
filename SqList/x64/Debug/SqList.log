@@ -1,0 +1,5 @@
+﻿  sqList_fuction.c
+E:\数据结构\c语言\SqList\sqList_fuction.c(57,2): warning C4047: “<”:“int”与“void (__cdecl *)(SqList *)”的间接级别不同
+  sqList_ok.c
+  正在生成代码...
+  SqList.vcxproj -> E:\数据结构\c语言\SqList\x64\Debug\SqList.exe
