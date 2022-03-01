@@ -1,0 +1,3 @@
+﻿  test.c
+E:\Github_code\C-language\test_3_01\test.c(1,1): warning C4828: 文件包含在偏移 0xb2e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test_3_01.vcxproj -> E:\Github_code\C-language\test_3_01\x64\Debug\test_3_01.exe
